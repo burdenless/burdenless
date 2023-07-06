@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burdenless&label=Profile%20views&color=0e75b6&style=flat" alt="burdenless" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burdenless" alt="burdenless" /></a> </p>
+✍️ I regularly write articles on [https://therise.hashnode.dev](https://therise.hashnode.dev)
 
-- 📝 I regularly write articles on [https://therise.hashnode.dev](https://therise.hashnode.dev)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/bobarg/](https://www.linkedin.com/in/bobarg/)
+👨🏻‍💻 Check out my work experience on [https://www.linkedin.com/in/bobarg/](https://www.linkedin.com/in/bobarg/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
