@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bobby</h1>
 <h3 align="center">A reformed Christian technologist </h3> 
-<h4 align="center">I am passionate about good engineering team cultures 💪 and simple, elegant, and robust software systems ⚙️</h5>
+<h4 align="center">I am passionate about Christ, good engineering team cultures 💪, and simple, elegant, and secure software systems ⚙️</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burdenless&label=Profile%20views&color=0e75b6&style=flat" alt="burdenless" /> </p>
 
