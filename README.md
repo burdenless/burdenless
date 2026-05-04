@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bobby</h1>
+<h1 align="center">Hi 👋 I'm Bobby</h1>
 <h3 align="center">A reformed Christian hacker and general technologist</h3> 
 <h4 align="center">I am passionate about Christ, good engineering team cultures 💪, and simple, elegant, and secure software systems ⚙️</h5>
 
