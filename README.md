@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burdenless&label=Profile%20views&color=0e75b6&style=flat" alt="burdenless" /> </p>
 
-✍️ I regularly write articles on [https://therise.hashnode.dev](https://therise.hashnode.dev)
+✍️ I write articles sometimes on [https://therise.hashnode.dev](https://therise.hashnode.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
